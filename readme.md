@@ -1,5 +1,5 @@
 
-# IBM Data Analyst Professional Certificate ![IBM_Logo](http://url/to/img.png](https://es.wikipedia.org/wiki/IBM#/media/Archivo:IBM_logo.svg)
+# IBM Data Analyst Professional Certificate <img src="\Certificate - IBM Data Analyst.png" width=20% height=20%>
 
 ## About Professional Certificate
 Gain the **job-ready skills** for an entry-level data analyst role through this eight-course Professional Certificate from IBM and position yourself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
