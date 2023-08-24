@@ -1,5 +1,5 @@
 
-# IBM Data Analyst Professional Certificate <img src="https://es.wikipedia.org/wiki/IBM#/media/Archivo:IBM_logo.svg" align="right" width="120" />
+# IBM Data Analyst Professional Certificate ![IBM_Logo](http://url/to/img.png](https://es.wikipedia.org/wiki/IBM#/media/Archivo:IBM_logo.svg)
 
 ## About Professional Certificate
 Gain the **job-ready skills** for an entry-level data analyst role through this eight-course Professional Certificate from IBM and position yourself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
@@ -66,7 +66,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 - Identify key elements in the Data Analytics process by analyzing a business case study and its data set. 
 
 
-- [x] [__Course-2 : Excel Basics for Data Analysis__]()
+- [x] [__Course-2 : Excel Basics for Data Analysis__](https://github.com/leorro96/IBMDataAnalytics/tree/main/2-Excel%20Basics%20for%20Data%20Analysis)
 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
   
@@ -83,7 +83,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 
 
 
-- [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ]()
+- [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/leorro96/IBMDataAnalytics/tree/main/3-Data%20Visualization%20With%20Excel%20and%20Congos)
 
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. Begin the process of telling a story with your data by creating the many types of charts that are available in spreadsheets like Excel. Explore the different tools of a spreadsheet, such as the important pivot function and the ability to create dashboards and learn how each one has its own unique property to transform your data. Continue to gain valuable experience by becoming familiar with the popular analytics tool - IBM Cognos Analytics - to create interactive dashboards.
   
@@ -99,7 +99,7 @@ This course covers some of the first steps in the development of data visualizat
   
 
 
-- [x] [__Course-4 : Python for Data Science, AI & Development__]()
+- [x] [__Course-4 : Python for Data Science, AI & Development__](https://github.com/leorro96/IBMDataAnalytics/tree/main/4-Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
 Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply Python has never been higher.  
 
@@ -116,7 +116,7 @@ This introduction to Python course will take you from zero to programming in Pyt
 - Access web data using APIs and web scraping from Python in Jupyter Notebooks.   
 
 
-- [X] [__Course-5 : Python Project for Data Science__]()
+- [X] [__Course-5 : Python Project for Data Science__](https://github.com/leorro96/IBMDataAnalytics/tree/main/5-Python%20Project%20for%20Data%20Science)
 
 This mini-course is intended to for you to demonstrate foundational Python skills for working with data. This course primarily involves completing a project in which you will assume the role of a Data Scientist or a Data Analyst and be provided with a real-world data set and a real-world inspired scenario to identify patterns and trends. 
 
@@ -133,7 +133,7 @@ You will perform specific data science and data analytics tasks such as extracti
 - Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook. 
 
 
-- [x] [__Course-6 : Databases and SQL for Data Science with Python__]()
+- [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/leorro96/IBMDataAnalytics/tree/main/6-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
 Working knowledge of SQL (or Structured Query Language) is a must for data professionals like Data Scientists, Data Analysts and Data Engineers. Much of the world's data resides in databases. SQL is a powerful language used for communicating with and extracting data from databases.  
 
@@ -163,7 +163,7 @@ Through hands-on labs and projects, you will practice building SQL queries, work
 
 
 
-- [x] [__Course-7 : Data Analysis with Python__]()
+- [x] [__Course-7 : Data Analysis with Python__](https://github.com/leorro96/IBMDataAnalytics/tree/main/7-Data%20Analysis%20With%20Python)
 
 Analyzing data with Python is an essential skill for Data Scientists and Data Analysts. This course will take you from the basics of data analysis with Python to building and evaluating data models.  
 
@@ -190,7 +190,7 @@ You will learn how to import data from multiple sources, clean and wrangle data,
  
 
 
-- [x] [__Course-8 : Data Visualization with Python__]()
+- [x] [__Course-8 : Data Visualization with Python__](https://github.com/leorro96/IBMDataAnalytics/tree/main/8-Data%20Visualization%20with%20Python)
 
 One of the most important skills of successful data scientists and data analysts is the ability to tell a compelling story by visualizing data and findings in an approachable and stimulating way. In this course you will learn many ways to effectively visualize both small and large-scale data. You will be able to take data that at first glance has little meaning and present that data in a form that conveys insights. 
 
@@ -210,7 +210,7 @@ You will learn hands-on by completing numerous labs and a final project to pract
 
 
 
-- [x] [__Course-9 : IBM Data Analyst Capstone Project__]()
+- [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/leorro96/IBMDataAnalytics/tree/main/9-IBM%20Data%20Analyst%20Capstone%20Project)
 
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 
