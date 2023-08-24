@@ -1,5 +1,5 @@
 
-# IBM Data Analyst Professional Certificate <img src="\Certificate - IBM Data Analyst.png" width=20% height=20%>
+# IBM Data Analyst Professional Certificate <img src="/misc/IBM_logo.svg" width=20% height=20%>
 
 ## About Professional Certificate
 Gain the **job-ready skills** for an entry-level data analyst role through this eight-course Professional Certificate from IBM and position yourself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
@@ -43,7 +43,7 @@ At the end of the program, you complete a real-world capstone project specifical
 This credential earner has demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating visualizations & interactive dashboards, and presenting reports to share findings of data analysis, and is now equipped with skills for an entry-level role in data analytics. The earner has successfully completed 9 courses in Data Analytics and gained hands-on experience with data analysis tools, including Excel, SQL, Databases, Python, JupyterLab and Cognos.
 
 <p align="center">
-<img src="\Certificate - IBM Data Analyst.png" width=80% height=80%>
+<img src="Certificate - IBM Data Analyst.png" width=80% height=80%>
 
 ---
 

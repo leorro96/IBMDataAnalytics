@@ -1,4 +1,4 @@
-# Course 4 : Python for Data Science, API & Developement <img src="https://es.wikipedia.org/wiki/IBM#/media/Archivo:IBM_logo.svg" align="right" width="120" />
+# Course 4 : Python for Data Science, API & Developement <img src="/misc/IBM_logo.svg" align="right" width="120" />
 
 ## About this Course
 

@@ -1,4 +1,4 @@
-# Course-3 : Data Visualization and Dashboards with Excel and Cognos <img src="https://es.wikipedia.org/wiki/IBM#/media/Archivo:IBM_logo.svg" align="right" width="120" />
+# Course-3 : Data Visualization and Dashboards with Excel and Cognos <img src="/misc/IBM_logo.svg" align="right" width="120" />
 
 ## About this Course
 

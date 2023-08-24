@@ -1,4 +1,4 @@
-# Course-2 : Excel Basics for Data Analysis <img src="https://es.wikipedia.org/wiki/IBM#/media/Archivo:IBM_logo.svg" align="right" width="120" />
+# Course-2 : Excel Basics for Data Analysis <img src="misc/IBM_logo.svg" align="right" width="120" />
 
 ## About this Course
 This course is designed to provide basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  

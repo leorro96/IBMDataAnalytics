@@ -1,4 +1,4 @@
-# Course-6 : Databases and SQL for Data Science with Python <img src="https://es.wikipedia.org/wiki/IBM#/media/Archivo:IBM_logo.svg" align="right" width="120" />
+# Course-6 : Databases and SQL for Data Science with Python <img src="/misc/IBM_logo.svg" align="right" width="120" />
 
 ## About this Course
 

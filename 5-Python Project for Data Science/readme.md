@@ -1,4 +1,4 @@
-# Course-5 : Python Project for Data Science <img src="https://es.wikipedia.org/wiki/IBM#/media/Archivo:IBM_logo.svg" align="right" width="120" />
+# Course-5 : Python Project for Data Science <img src="/misc/IBM_logo.svg" align="right" width="120" />
 
 
 ## About this Project
